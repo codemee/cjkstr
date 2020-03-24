@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: cjkstr
-Version: 0.0.1
+Version: 0.0.2
 Summary: A simple package to processing CJK string
 Home-page: https://github.com/codemee/cjkstr
 Author: Shin-Wei Hwang
@@ -49,7 +49,11 @@ Description: # CJKStr -- A Simple Package for Processing CJK string
         ouput:
         
         ```python
+        1234567890123456789012345678901234567890
+        測試        |
+        測試      |
         ```
+        
         
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
