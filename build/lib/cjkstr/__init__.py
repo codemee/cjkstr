@@ -4,8 +4,11 @@ import unicodedata
 def count_cjk_chars(s):
     """Count numbers of CJK characters in a string.
 
-    Arguments:
-    s -- the string contains CJK characters
+    Arg:
+        s (str): The string contains CJK characters.
+
+    Returns:
+        int: The number of CJK characters.
     """
     counts = 0
     for c in s:

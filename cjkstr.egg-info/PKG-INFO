@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: cjkstr
-Version: 0.0.3
+Version: 0.0.4
 Summary: A simple package to processing CJK string
 Home-page: https://github.com/codemee/cjkstr
 Author: Shin-Wei Hwang
