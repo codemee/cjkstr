@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="cjkstr", # Replace with your own username
-    version="0.0.2",
+    version="0.0.3",
     author="Shin-Wei Hwang",
     author_email="meebox@gmail.com",
     description="A simple package to processing CJK string",
